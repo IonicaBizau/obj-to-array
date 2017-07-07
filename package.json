@@ -38,6 +38,6 @@
     "url": "https://github.com/IonicaBizau/obj-to-array/issues"
   },
   "blah": {
-      "description": "It happens many times I use an object for doing some grouping, and then I want to convert it back into an array."
+    "description": "It happens many times I use an object for doing some grouping, and then I want to convert it back into an array."
   }
 }
