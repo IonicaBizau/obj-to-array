@@ -66,7 +66,7 @@ Convert objects into arrays
 
 #### Params
 - **Object** `obj`: The data object.
-- **String** `keyName`: An optional key name to be appended, storring the key value.
+- **String** `keyName`: An optional key name to be appended, storing the key value.
 
 #### Return
 - **Array** An array of objects.
