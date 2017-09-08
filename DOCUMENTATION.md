@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Convert objects into arrays
 
 #### Params
+
 - **Object** `obj`: The data object.
 - **String** `keyName`: An optional key name to be appended, storing the key value.
 
